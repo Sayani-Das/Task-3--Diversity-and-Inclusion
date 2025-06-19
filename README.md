@@ -14,14 +14,25 @@ The goal of this dashboard is to:
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-.number of men
+number of men
 
 number of women
+
 number of leavers
+
 % employees promoted (FY21)
+
 % of women promoted
+
 % of hires men
+
 % of hires women
+
 % turnover
+
 Average performance rating: men
+
 Average Performance rating: women
+
+![Task 3-Dashboard(1)](https://github.com/user-attachments/assets/9d356c7c-fb05-4b50-8b02-993678325abe)
+
