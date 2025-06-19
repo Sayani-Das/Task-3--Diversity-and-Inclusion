@@ -11,6 +11,7 @@ The goal of this dashboard is to:
 3.Track turnover trends by gender and job role.
 
 4.Identify gaps in career progression and retention.
+
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
 .number of men
